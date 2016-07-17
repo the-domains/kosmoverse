@@ -1,0 +1,14 @@
+layout_spectrum: 0.9125926431734115
+typography_spectrum: 0.8824594626203179
+color:
+  brandStrength: 0.7576489213388413
+  lightness: 0.5758673697710037
+  saturation: 0.08503375318832695
+  rhythmicContrast: 0.10461276886053383
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Kosmoverse
