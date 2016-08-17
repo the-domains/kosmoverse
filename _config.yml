@@ -1,16 +1,16 @@
-typography_spectrum: 0.8824594626203179
+typography_spectrum: 0.525440601631999
 color:
-  brandStrength: 0.7576489213388413
-  lightness: 0.5758673697710037
-  saturation: 0.08503375318832695
-  rhythmicContrast: 0.10461276886053383
+  brandStrength: 0.6323635245207697
+  lightness: 0.5004454313311726
+  saturation: 0.15233650361187756
+  rhythmicContrast: 0.6203850747551769
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-layout_spectrum: 0.9125926431734115
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+layout_spectrum: 0.05104532209224999
 author:
   name: waza
   email: 'waza =at= kosmoverse .dot. com '
